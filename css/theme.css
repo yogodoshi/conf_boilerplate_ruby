@@ -26,7 +26,7 @@ nav {background: #2b2b2b;}
    HEADER
    ========================================================================== */
 .header {
-  background: #2b2b2b no-repeat center top;
+  background: #2b2b2b url(../img/866591_24254643.jpg) no-repeat center bottom;
   background-size: 100% auto;
 }
 .logo-link, .tagline, .call-action-area .price {
@@ -139,8 +139,13 @@ nav {background: #2b2b2b;}
 /* =============================================================================
    Media Queries
    ========================================================================== */
-@media only screen and (max-width : 480px) {
 
+@media only screen and (max-width : 1024px) {
+  .header {
+    background-size: auto 100%;
+  }
+}
+@media only screen and (max-width : 480px) {
   /* speakers */
   .speaker-photo .photo {box-shadow: 0 0 0 3px rgba(0,0,0,.07);}
   .speech-title {font-weight: bolder;}
