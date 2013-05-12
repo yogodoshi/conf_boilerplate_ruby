@@ -7,19 +7,19 @@ permalink: /:title.html
 
 # Conference info
 conf:
-  name: "Conference name"
-  description: "Conference description"
-  date: "November 15"
-  price: "$100"
-  address: "Boulevard Kukulcan, 30, México"
-  venue: "Coco Bongo"
-  city: "Cancún"
+  name: "Geek Conf"
+  description: "É geek? Curte games, quadrinhos, RPG, anime e a cultura da internet? Venha viver um pouco do mundo geek através de palestras, stands de demonstração e venda, oficinas e várias atrações no GeekConf!"
+  date: "06 e 07 de julho"
+  price: "(a definir)"
+  address: "Av. Pasteur, 368 - Urca"
+  venue: "UniRio"
+  city: "Rio de Janeiro"
 
 # Site info
 site:
-  url: "http://confboilerplate.com"
-  favicon: "http://braziljs.org/favicon.ico"
-  googleanalytics: "UA-33656081-1"
+  url: "http://www.geekconf.com.br"
+  favicon: ""
+  googleanalytics: "UA-40862014-1"
   images:
     cover: "http://f.cl.ly/items/2X28422q1e3w0C2U1P3H/866591_24254643.jpg"
     facebook: "http://braziljs.org/img/fb-share.jpg"
