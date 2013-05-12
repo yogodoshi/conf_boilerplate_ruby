@@ -32,7 +32,7 @@ sections:
   schedule: true
   sponsors: true
   partners: true
-  contact: false
+  contact: true
 
 # The entire schedule
 schedule:
