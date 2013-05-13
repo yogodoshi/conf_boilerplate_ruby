@@ -37,17 +37,17 @@ sections:
 # Event Attractions
 attractions:
   -
-    name: "Linus Torvalds"
+    name: "Baixo Frente Soco"
     photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    link_label: "youtube"
-    link_url: "#"
+    bio: "Porque eu gosto de JÓgos e diversão! Vão organizar um esquema de X1 e uma mesa redonda."
+    link_label: "site (é site!?)"
+    link_url: "http://baixofrentesoco.com/"
   -
-    name: "Bill Gates"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    link_label: "facebook"
-    link_url: "#"
+    name: "Ludobardo"
+    photo: "/img/ludobardo.jpg"
+    bio: "UOOOOOOOU!"
+    link_label: "YouTube"
+    link_url: "https://www.youtube.com/user/VagrantBard"
   -
     name: "Linus Torvalds"
     photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
@@ -77,73 +77,61 @@ attractions:
 schedule:
   -
     name: "Check-in / Breakfast"
-    time: "9h00"
+    time: "?"
   -
-    name: "Linus Torvalds"
+    name: "Ninja Inimigo"
     photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Linux Foundation"
-    twitter: "linus"
+    company: "Baixo Frente Soco"
     presentation:
-      title: "Digging into a Linux Kernel"
+      title: "Mesa redonda do Ninja Inimigo"
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "10h00"
+      time: "?"
   -
-    name: "Bill Gates"
+    name: "Ilapso"
     photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Microsoft"
-    twitter: "billy95"
+    company: "Baixo Frente Soco"
     presentation:
-      title: "Introducing Windows 12"
+      title: "X1 com a galera do BFS"
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "11h00"
+      time: "?"
   -
-    name: "Lunch"
-    time: "12h00"
+    name: "Almoço"
+    time: "?"
   -
-    name: "Chuck Norris"
+    name: "Paulo Junior"
     photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Delta Command"
-    twitter: "littlechuck"
+    company: "Get Ready"
     presentation:
-      title: "How to kill a elephant with one finger"
+      title: "Workshop pra jogar como um pro"
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "13h00"
+      time: "?"
   -
-    name: "Steve Jobs"
+    name: "Paulo Junior"
     photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Apple, Inc."
-    twitter: "stevie"
+    company: "Get Ready"
     presentation:
-      title: "Presenting iPad"
+      title: "Cenario dos campeonatos de luta"
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "14h00"
+      time: "?"
   -
     name: "Coffee-break"
-    time: "15h00"
+    time: "?"
   -
     name: "Mark Zuckerberg"
     photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
     company: "Facebook"
-    twitter: "zuck"
     presentation:
       title: "Revealing Facebook Secrets"
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "16h00"
+      time: "?"
   -
     name: "Steve Wozniak"
     photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
     company: "Apple, Inc."
-    twitter: "woz"
     presentation:
       title: "Why do I prefer Android over iPhone"
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "17h00"
+      time: "?"
 
 # List of Sponsors
 sponsors:
