@@ -45,7 +45,7 @@ attractions:
   -
     name: "Ludobardo"
     photo: "/img/ludobardo.jpg"
-    bio: "UOOOOOOOU!"
+    bio: "UOOOOOOOU! Arthur Protasio é roteirista/escritor, pesquisador, desenvolvedor e crítico. Além de apaixonado pelo mundo das narrativas!"
     link_label: "YouTube"
     link_url: "https://www.youtube.com/user/VagrantBard"
   -
@@ -117,12 +117,12 @@ schedule:
     name: "Coffee-break"
     time: "?"
   -
-    name: "Mark Zuckerberg"
+    name: "Arthur Protasio"
     photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    company: "Facebook"
+    company: "Ludobardo"
     presentation:
-      title: "Revealing Facebook Secrets"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+      title: "Narrativas em Jogos: como criar experiências memoráveis"
+      description: "Quem disse que tudo que importa em um jogo são os gráficos e os controles? Pergunte a um jogador que momento marcante lhe vem à mente de quando estava jogando e perceba como a experiência de jogo é importante. Isso inclui a mecânica, o roteiro e, especialmente, a forma como o jogo permite que o jogador construa a sua própria história. Venha contar a sua história e, no processo, entenda como as peças se encaixam."
       time: "?"
   -
     name: "Steve Wozniak"
